@@ -1,0 +1,26 @@
+body{
+    color: rgb(2, 19, 9);
+    font-size: 20px;
+    background-color: wheat;
+    BORDER:5PX;
+    padding-left: 18em;
+    
+}    
+.CHECK{
+    padding-left: 70PX;
+}
+.REGISTRATION{
+    border-style: groove;
+    border-width: 10PX;
+    width: 20em;
+    padding-left: 10EM;
+    align-items: center;
+    text-align: center;
+    color: black;
+    background-image: radial-gradient(wheat, rgb(38, 73, 38));
+    
+
+}
+button{
+    margin-right: 30px;
+}
